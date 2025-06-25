@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React Fan | Learning Node.js</h3>
 
 <p align="center">
-  <img src="https://github.com/Minaeisa.png" width="150" alt="Mina Eisa" />
+  <img src="https://github.com/Minaeisa.png" width="150" style="border-radius: 50%;" alt="Mina Eisa" />
 </p>
 
 
