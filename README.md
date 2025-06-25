@@ -32,9 +32,11 @@ I enjoy creating clean UI, exploring JavaScript deeply, and pushing my limits ev
 
 ## 📬 Contact Me
 
-- 📧 Email: [your@email.com](mailto:123menaesss@email.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https:www.linkedin.com/in/mina-eisa-15584127b)
-- 🌐 Portfolio: [your-portfolio.com](https://github.com/Minaeisa)
+- 📧 Email: [123menaesss@email.com](mailto:123menaesss@email.com
+- 💼 LinkedIn: [linkedin.com/in/mina-eisa-15584127b](https:www.linkedin.com/in/mina-eisa-15584127b)
+- 🌐 GitHub: [github.com/Minaeisa](https://github.com/Minaeisa)
+- 📌 Check out my latest project: [To-Do List](https://github.com/Minaeisa/To-Do-List)
+
 
 ---
 
